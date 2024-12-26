@@ -1,3 +1,7 @@
+## **A fork of [Farlands Reloaded](https://content.luanti.org/packages/wsor4035/farlands_reloaded/) by wsor4035**
+Code License: [MIT](https://opensource.org/licenses/MIT)
+Media License: [CC BY-SA 4.0]([url](https://creativecommons.org/licenses/by-sa/4.0/))
+
 # Minetest Farlands Reloaded Game
 
 ![Luacheck](https://github.com/terraquest-studios/farlands_reloaded/workflows/luacheck/badge.svg)
@@ -12,7 +16,7 @@ see the roadmap.md file for proposed direction.
 
 ## Test Server
 
-A test server running this game can be found at  
+A test server running Farlands Reloaded, which is the base of this game, can be found at:
 Address: cw.edgy1.net  
 Port: 30016
 
